@@ -1,0 +1,2 @@
+# sciurus17_Hardware
+トルソーロボットSciurus17のハードウェア情報。
