@@ -19,7 +19,7 @@
 
 Copyright
 
-Sciurus17は、アールティで開発した研究用トルソーロボットです。
+Sciurus17は、アールティで開発した研究用上半身ロボットです。
 このリポジトリの情報のライセンスについては、LICENSEファイルをご参照ください。
 ただし、企業でも自社内での研究開発のために利用することに限り、許可します。
 こちらの情報を使って自作されたい方は、義務ではありませんがアールティロボットショップで部品をお買い求めいただければ、励みになります。
@@ -48,6 +48,6 @@ Sample programs are managed in this repository: rt-net/Sciurus17
 
 Copyright
 
-Sciurus17 is an Torso robot developed by RT Corporation for research purposes. Please read the license information contained in this repository to find out more about licensing. Companies are permitted to use Sciurus17 and the materials made available here for internal, research and development purposes only. If you are interested in building your own robot for your personal use by utilizing the information made available here, take your time to visit our website and purchase relevant components and parts – that will certainly help us keep going! Otherwise, if you are interested in manufacturing and commercializing products based on the information herein, please contact us to arrange a license and collaboration agreement with us. 
+Sciurus17 is an upper body robot developed by RT Corporation for research purposes. Please read the license information contained in this repository to find out more about licensing. Companies are permitted to use Sciurus17 and the materials made available here for internal, research and development purposes only. If you are interested in building your own robot for your personal use by utilizing the information made available here, take your time to visit our website and purchase relevant components and parts – that will certainly help us keep going! Otherwise, if you are interested in manufacturing and commercializing products based on the information herein, please contact us to arrange a license and collaboration agreement with us. 
 
 We have obtained permission from ROBOTIS Co., Ltd. to use CAD models relating to servo motors XM540 and XM430. The proprietary rights relating to any components or parts manufactured by ROBOTIS and used in this product, including but not limited to copyrights, trademarks, and other intellectual property rights, shall remain vested in ROBOTIS. 
