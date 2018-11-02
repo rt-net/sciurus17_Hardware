@@ -1,5 +1,5 @@
 # sciurus17_Hardware
-トルソーロボットSciurus17のハードウェア情報。
+上半身ロボットSciurus17のハードウェア情報。
 
 公式サイトは[こちら( https://www.rt-net.jp/products/Sciurus17 )](https://www.rt-net.jp/products/sciurus17)です。
 
@@ -17,7 +17,7 @@
 
 サンプルプログラムは[rt-net/sciurus17](https://github.com/rt-net/sciurus17)のリポジトリで管理されています。
 
-Authors & License
+Copyright
 
 Sciurus17は、アールティで開発した研究用トルソーロボットです。
 このリポジトリの情報のライセンスについては、LICENSEファイルをご参照ください。
@@ -30,7 +30,7 @@ Sciurus17は、アールティで開発した研究用トルソーロボット�
 
 
 # Sciurus17_Hardware
-Torso Robot Sciurus17 – Hardware Information.
+Upper Body Robot Sciurus17 – Hardware Information.
 
 Click here ( https://www.rt-net.jp/products/Sciurus17 ) to visit the official website.
 
@@ -46,7 +46,7 @@ You can make modifications using this data.
 Sample programs are managed in this repository: rt-net/Sciurus17
 
 
-Authors & License
+Copyright
 
 Sciurus17 is an Torso robot developed by RT Corporation for research purposes. Please read the license information contained in this repository to find out more about licensing. Companies are permitted to use Sciurus17 and the materials made available here for internal, research and development purposes only. If you are interested in building your own robot for your personal use by utilizing the information made available here, take your time to visit our website and purchase relevant components and parts – that will certainly help us keep going! Otherwise, if you are interested in manufacturing and commercializing products based on the information herein, please contact us to arrange a license and collaboration agreement with us. 
 
