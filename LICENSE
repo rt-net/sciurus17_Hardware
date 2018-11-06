@@ -1,3 +1,67 @@
+非商用使用許諾規約
+
+株式会社アールティ（以下「弊社」といいます。）の商品（CRANE-X7、SCIURIUS17および弊社が開発・製造・販売するその他の商品。以下「弊社商品」といいます。）をご購入頂き誠にありがとうございます。本非商用使用許諾規約（以下「本規約」といいます。）は、弊社商品に関連して弊社が制作したソースファイル、ディレクトリ、実行可能ファイル、データ、開発ツールおよびその他の資料（以下「弊社資料」といいます。）の使用に際し適用される条件を定めるものです。弊社資料を使用する方（以下「使用者」といいます。）は、個人または法人を問わず、本非商用使用許諾規約をお読み頂き、その内容にご同意頂きますようお願いします。もしご同意できない場合、弊社資料のご使用はお控え頂いますようお願いします。
+
+第１条（保証）
+
+弊社資料は、現状有姿のまま提供されます。
+法令で定める場合を除き、弊社は、弊社資料の性能、正確性、特定目的への適合性に関して一切保証しません。また、弊社資料にエラー、セキュリティ上の欠陥、中断等の障害が起こり得ることについてもご了承頂きますようお願いします。
+
+第２条（非商用使用）
+
+弊社資料には、非商用目的でご使用頂きますようお願いします。なお、本規約において「非商用使用」とは、以下の各号に該当する場合をいいます。
+間接的または直接的な収益、報酬、商業利益等の獲得を目的としない研究および教育
+教育機関において非商業的な学習、教育または研究を目的とする学生および教職員による使用
+弊社資料を間接的または直接的な収益、報酬、商業利益等の金銭的利益の獲得を目的としたり、商業的な環境において使用したりする場合、商用使用許諾または協業等について協議するため、事前に弊社までお問合せ頂きますようお願いします。 
+
+第３条（オープンソース資料）
+
+弊社資料は、オープンソース資料を含みます。オープンソース資料に関する使用条件は、以下に引用するライセンスに定められています。ご参照のうえ、当該ライセンスの定めに従いオープンソース資料をご使用頂きますようお願いします。なお、オープンソース資料は、法令で定める場合または書面による特段の合意がある場合を除き、現状有姿のまま、かつ黙示的または明示的な保証を一切付さずに提供されます。
+Apache License (https://opensource.org/licenses/Apache-2.0) 
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+万一、オープンソース資料に関するライセンスの定めと本規約の定めとの間で不一致が生じた場合、本規約の定めが優先するものとします。なお、弊社は、弊社資料に含まれているオープンソース資料について一切保証しません。
+
+第４条（使用許諾）
+
+弊社は、以下の条件のもとで弊社資料の使用にかかる権利を許諾します。
+本規約の定めに従うこと
+弊社資料または弊社商品に添付された仕様書・マニュアル・ガイドライン等を順守すること
+本規約第２条第1項に定める目的のみをもって使用すること
+使用権の特徴は、以下の通りとします。
+世界中どこでもご使用頂けます。
+理由の如何を問わず、解除または取消可能とします。
+非独占的な使用権とします。
+無償とします。
+譲渡不能とします。
+使用期間は、無期限とします。
+サブライセンスはできないものとします。
+
+第５条（禁止事項）
+
+以下の行為を禁止します。
+収益、商業利益等の獲得を目的とした弊社資料およびこれらの派生製品を製造、研究、使用等（販売、貸与、リース、ライセンス、譲渡を含みます。）すること
+弊社資料のディスアセンブル、デコンパイル、リバースエンジニアリングまたは弊社資料へ不正アクセスをすること
+弊社の事前の承諾なく、第三者に対して弊社資料へのアクセスを許可すること。ただし、当該第三者に対するアクセス許可が非商業目的の研究または教育の一環である場合、この限りではありません。
+弊社の事前の承諾なく、第三者に対して本規約に定める使用許諾、権利および義務を譲渡、移転またはサブライセンスすること
+法令に反して弊社資料を使用すること
+
+第６条（権利の帰属）
+
+弊社は、弊社資料およびこれらの一部として使用者に開示したノウハウ、仕様書、コンセプト、デザイン、その他の技術および知的財産にかかる一切の権利を留保するものとします。本規約は、弊社の商標、商号、役務商標、商品名、ロゴの使用を許諾するものではありません。ただし、弊社資料の説明または記述に合理的に必要な範囲において当該商標等を使用する場合は、この限りでないものとします。なお、弊社資料に付された商品識別番号、商標、コピーライト、その他の注意事項は、除去しないようお願いします。
+
+第７条（免責事項）
+
+弊社は、弊社の故意または過失による場合を除き、使用者に対して一切の損害賠償の責めを負わないものとします。また弊社は、本契約に起因する逸失利益および事業機会の喪失を含む間接損害、特別損害派生的損害および付随的損害を賠償する責めを負わないものとします。
+
+第８条（不正使用および解除）
+
+本規約に定められた使用許諾の範囲を超えて弊社資料を使用する行為は、本規約違反とみなします。この場合、弊社は、使用許諾を取り消すほか、法令上認められる救済手段を行使し、使用者は、本規約違反に起因する損害（第三者による請求を含みます）を賠償するものとします。使用許諾の取消後、使用者は、弊社の要請に応じて、直ちに弊社資料の使用を中止、破棄または返却するようお願いします。
+
+第９条（準拠法）
+本規約は、日本法に準拠するものとします。
+
+
+
 NON-COMMERCIAL LICENSE AGREEMENT
  
 This Non-Commercial License Agreement (“Agreement”) is a binding contract between RT Corporation, a company duly organized and existing under the laws of Japan (“we”, “our”) and you, the entity or individual (“you”, “your”) using our source files, directories, executables, data, development tools and other materials (collectively, the “Materials”) we make available to you under this Agreement in connection with CRANE-X7, SCIURIUS17, and other products (collectively the “Products”). If you do not agree with the terms and conditions of this Agreement, you do not have the right to use the Materials. Prior to using the Materials, you expressly acknowledge and agree that to the extent permitted by applicable laws the Materials are provided “as-is”, the use of the Materials is at your entire risk with respect to the performance, accuracy and fitness of the Materials for a particular purpose. You acknowledge and understand that the Materials may not be error free, free of any security defects or interruption.
