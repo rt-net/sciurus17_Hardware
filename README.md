@@ -20,14 +20,19 @@ Sciurus17は、弊社が開発した研究用上半身ロボットです。こ�
 
 # Sciurus17_Hardware
 Upper Body Humanoid 17-Axis Robot “Sciurus17” – Hardware Information.
+
 Click here ( https://www.rt-net.jp/products/Sciurus17 ) to visit the official website.
+
 “cad_data” directory contains CAD data relevant to Sciurus17. You can make modifications using this data.
+
 “3Dprint_data” directory contains model data for 3D rendering using Afinia H800+ and details on print settings. You can replace a damaged frame by 3D-printing a new frame based on the data contained herein.
-“Drawing” directory contains aluminium plate data PDF drawing & DXF drawing. You can replace a damaged plate by NC Cutting new plate based on the data contained herein.
+
 “others” directory contains links to Sciurus17’s components and parts assembly manuals.
+
 Sample programs are managed in this repository: rt-net/Sciurus17
 
 Proprietary Rights
 Sciurus17 is an upper body robot developed by RT Corporation for research purposes. Please read the license information contained in this repository to find out more about licensing. Companies are permitted to use Sciurus17 and the materials made available here for internal, research and development purposes only. If you are interested in building your own robot for your personal use by utilizing the information made available here, take your time to visit our website and purchase relevant components and parts – that will certainly help us keep going! Otherwise, if you are interested in using the hardware information herein on a commercial basis, please contact us to arrange a license and collaboration agreement with us.
+
 We have obtained permission from ROBOTIS Co., Ltd. to use CAD models relating to servo motors XM540 and XM430. The proprietary rights relating to any components or parts manufactured by ROBOTIS and used in this product, including but not limited to copyrights, trademarks, and other intellectual property rights, shall remain vested in ROBOTIS.
 
