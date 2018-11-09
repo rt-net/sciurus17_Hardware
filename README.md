@@ -32,6 +32,7 @@ Click here ( https://www.rt-net.jp/products/Sciurus17 ) to visit the official we
 Sample programs are managed in this repository: rt-net/Sciurus17
 
 Proprietary Rights
+
 Sciurus17 is an upper body robot developed by RT Corporation for research purposes. Please read the license information contained in this repository to find out more about licensing. Companies are permitted to use Sciurus17 and the materials made available here for internal, research and development purposes only. If you are interested in building your own robot for your personal use by utilizing the information made available here, take your time to visit our website and purchase relevant components and parts – that will certainly help us keep going! Otherwise, if you are interested in using the hardware information herein on a commercial basis, please contact us to arrange a license and collaboration agreement with us.
 
 We have obtained permission from ROBOTIS Co., Ltd. to use CAD models relating to servo motors XM540 and XM430. The proprietary rights relating to any components or parts manufactured by ROBOTIS and used in this product, including but not limited to copyrights, trademarks, and other intellectual property rights, shall remain vested in ROBOTIS.
