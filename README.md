@@ -29,7 +29,7 @@ Click here ( https://www.rt-net.jp/products/Sciurus17 ) to visit the official we
 
 “others” directory contains links to Sciurus17’s components and parts assembly manuals.
 
-Sample programs are managed in this repository: rt-net/Sciurus17
+Sample programs are managed in this repository: rt-net/Sciurus17.
 
 Proprietary Rights
 
