@@ -8,7 +8,7 @@
 
 - `3d_cad_data` : Sciurus17のCADデータ(step)が入っています。
 - `3d_print_parts` : Afinia H800+を使った3Dプリント用印刷データと印刷設定リストが入っています。
-- `Drawing` : アルミプレートのPDF図面とDXF図面が入っています。
+- `Drawing` : アルミフレームのPDF図面とDXF図面が入っています。
 
 ## その他リンク集
 
